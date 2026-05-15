@@ -92,15 +92,14 @@ Faculty of Agriculture — Suez Canal University
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarElbahtieny&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarElbahtieny&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElbahtieny&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElbahtieny&layout=compact&theme=tokyonight" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=OmarElbahtieny&theme=tokyonight)
-
-</div>
+<img src="https://streak-stats.demolab.com?user=OmarElbahtieny&theme=tokyonight" />
 
 </div>
 
