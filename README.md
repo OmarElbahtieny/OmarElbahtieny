@@ -1,21 +1,20 @@
-# 👋 Hi, I'm Omar Essa
+# 👋 Hi, I'm Omar Essa Elbahtieny
 
 <div align="center">
 
-### 📊 Data Analyst | Data Operations Lead | Power BI Developer
+### 📊 Data Analyst | Data Operations Lead | Power BI Developer 
 
-Passionate about transforming raw data into actionable insights through analytics, automation, and interactive dashboards.
-
+I’m always learning, always improving, and always looking for new challenges where I can create real impact.
+Let’s connect and explore how data can drive better decisions.
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Currently working as a **Data Analyst & Data Operations Lead**
+- 💼 Currently working as a **Data Analyst & Data Operations Lead** at **Mersal Foundation**
 - 🏢 Leading data operations and reporting workflows at **Mersal Foundation**
 - 📈 Experienced in building scalable reporting systems and centralized databases
-- ⚡ Reduced reporting time from **weeks to under 2 hours**
 - 👨‍💻 Managing and mentoring a data team of 6 members
 - 📊 Specialized in data analysis, dashboard development, automation, and KPI tracking
 
@@ -109,11 +108,43 @@ Faculty of Agriculture — Suez Canal University
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+<a href="https://www.linkedin.com/in/omar-elbahtieny-27352a229/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+<a href="https://omarelbahtieny.github.io/new-portfolio/#hero" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+<a href="https://github.com/OmarElbahtieny" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:omar.elbahtieny@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://wa.me/201022930212" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/share/1KnyrFhtc4/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/0mareko_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://brainsmingle.com/profile" target="_blank">
+<img src="https://img.shields.io/badge/BrainsMingle-6C63FF?style=for-the-badge&logo=googlemessages&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
